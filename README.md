@@ -7,6 +7,9 @@ An end-to-end retail sales and profitability analytics project built using **Exc
 The project analyzes retail performance across **time, product, category, and region**, and presents the results through an interactive Power BI dashboard with KPI cards, slicers, and visual analysis.
 
 ---
+## 📊 Power BI Dashboard
+<img width="1415" height="762" alt="dashboard" src="https://github.com/user-attachments/assets/6993c03f-72c0-49c0-a1fa-fbce260f267f" />
+
 
 ## 🎯 Business Objectives
 
