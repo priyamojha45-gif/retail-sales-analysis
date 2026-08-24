@@ -8,7 +8,8 @@ The project analyzes retail performance across **time, product, category, and re
 
 ---
 ## 📊 Power BI Dashboard
-<img width="1415" height="762" alt="dashboard" src="https://github.com/user-attachments/assets/6993c03f-72c0-49c0-a1fa-fbce260f267f" />
+
+![Power BI Dashboard](dashboard.png)
 
 
 ## 🎯 Business Objectives
