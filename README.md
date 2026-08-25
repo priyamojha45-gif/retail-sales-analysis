@@ -26,7 +26,6 @@ The project analyzes retail performance across **time, product, category, and re
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Excel** – Data preparation and analysis
-- **SQL** – Data querying and analytical calculations
 - **Power BI** – Data visualization and interactive dashboard
 - **DAX** – KPI and measure calculations
 
